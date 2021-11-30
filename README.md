@@ -3,6 +3,7 @@ The University of Virginia's Grass Assemblies for Architecture and Construction 
 
 # Authors
 Cole Cestaro - University of Virginia Researcher, Class of 2025
+
 Chris Le - University of Virginia Researcher, Class of 2024
 
 # License
